@@ -33,8 +33,6 @@ python 版本：3.6 及以上
 
 # 🛠 如何使用
 
-**📖 使用文档：**  [点击查看](https://DrissionPage.cn)
-
 ![](https://drissionpage.cn/yrx.png)
 ![](https://drissionpage.cn/codes.png)
 
