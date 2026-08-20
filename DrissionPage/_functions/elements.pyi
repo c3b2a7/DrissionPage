@@ -5,7 +5,7 @@
 @Website  : https://DrissionPage.cn
 @Copyright: (c) 2020 by g1879, Inc. All Rights Reserved.
 """
-from typing import Union, List, Optional, Iterable, Dict
+from typing import Union, List, Optional, Iterable, Dict, Any
 
 from .._base.base import BaseParser
 from .._elements.chromium_element import ChromiumElement
@@ -29,7 +29,7 @@ class SessionElementsList(list):
 
     def __next__(self) -> SessionElement: ...
 
-    def __getitem__(self, _i) -> Union[SessionElement, SessionElementsList]: ...
+    def __getitem__(self, item: Any) -> Union[SessionElement, SessionElementsList]: ...
 
     def __iter__(self) -> List[SessionElement]: ...
 

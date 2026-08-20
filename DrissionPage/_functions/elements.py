@@ -40,7 +40,13 @@ class SessionElementsList(list):
 
     @property
     def texts(self):
-        return [t.text for t in self]
+        texts = []
+        for t in self:
+            if hasattr(t, 'text'):
+                texts.append(t.text)
+            elif isinstance(t, str):
+                texts.append(t)
+        return texts
 
 
 class ChromiumElementsList(SessionElementsList):
