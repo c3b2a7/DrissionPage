@@ -27,8 +27,10 @@ DrissionPage 是一个基于 Python 的网页自动化工具。
 
 ## IPWO爬虫代理资源为采集、跨境与测试项目提供支持(免费试用，爬虫使用强烈推荐!!!)
 
-<a href="https://www.ipwo.net/?ref=giteeg1879" target="_blank"><img src="https://drissionpage.cn/img/ad.png"/></a>
-<a href="https://www.ipwo.net/?ref=giteeg1879" target="_blank">学习者务必遵循法律！IPWO提供的真实住宅 IP，大幅降低被封禁风险。195 + 国家 / 地区精准定位，轻松应对大型爬虫任务。让爬虫更简单，让数据更安全。戳本信息注册可获得有效保护账号的高匿名ip流量。专属折扣码“<span style="color:red">dpdp</span>”。点击访问IPWO官网</a>
+<a href="https://www.ipwo.net/?ref=giteeg1879" target="_blank"><img src="https://drissionpage.cn/img/ipwo.png"/></a>
+<a href="https://www.ipwo.net/?ref=giteeg1879" target="_blank">IPWO 提供全球多个地区的住宅代理 IP，为网页自动化和数据采集项目提供代理网络选择。
+<br/>
+对于使用 DrissionPage 的开发者，可根据任务需求配置不同地区的代理，用于网页访问、跨境数据采集、市场调研及自动化测试等场景。点击访问IPWO官网</a>
 
 --- 
 
